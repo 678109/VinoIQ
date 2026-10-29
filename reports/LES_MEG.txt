@@ -1,0 +1,1 @@
+Rapporten skrives når modellen er kjørt og de faktiske resultatene er kontrollert.
