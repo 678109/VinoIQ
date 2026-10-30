@@ -224,9 +224,3 @@ Scikit-learn documentation: https://scikit-learn.org/stable/
 Streamlit documentation: https://docs.streamlit.io/
 
 Plotly documentation: https://plotly.com/python/
-
-## AI Tool Usage
-
-OpenAI's ChatGPT was used to assist with code development, debugging, interface design, documentation, and report writing.
-
-The project group is responsible for reviewing the generated material, testing the application, and verifying the final results.
